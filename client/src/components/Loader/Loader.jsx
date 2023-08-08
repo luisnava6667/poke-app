@@ -1,0 +1,8 @@
+import './loaderstyles.css'
+export const Loader = () => {
+  return (
+    <div className='loader'>
+      <div></div>
+    </div>
+  )
+}
